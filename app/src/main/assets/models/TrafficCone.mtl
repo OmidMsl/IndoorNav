@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 10572_TrafficCone_v02_NonReflective
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /home/omidmsl/Downloads/Compressed/TrafficCone_v02_L3.123ca9fb52b4-d4de-4a2a-8a1f-9f1e5a3974f6/10572_TrafficCone_v02.jpg
+
+newmtl 10572_TrafficCone_v02_Reflective
+Ns 47.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.468000 0.468000 0.468000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/omidmsl/Downloads/Compressed/TrafficCone_v02_L3.123ca9fb52b4-d4de-4a2a-8a1f-9f1e5a3974f6/10572_TrafficCone_v02.jpg
